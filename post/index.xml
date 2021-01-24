@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on badKarma Toolkit</title>
+    <link>https://badkarma.xfiltrated.com/post/</link>
+    <description>Recent content in Posts on badKarma Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Oct 2018 10:31:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://badkarma.xfiltrated.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://badkarma.xfiltrated.com/quickstart/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/quickstart/</guid>
+      <description>Setup Let&amp;rsquo;s install badKarma dependencies on your Kali box:
+# apt install python3-pip python3-gi phantomjs mitmproxy ffmpeg gir1.2-gtk-vnc-2.0 \ gir1.2-gtksource-3.0 gir1.2-vte-2.91 gir1.2-osmgpsmap-1.0 gir1.2-webkit2-4.0  clone the repository:
+# git clone https://github.com/r3vn/badKarma.git install python dependecies:
+# cd badKarma # pip install -r requirements.txt Run $ chmod +x badkarma.py $ ./badkarma.py at this point badKarma window should appear, happy hacking :)
+# G.</description>
+    </item>
+    
+  </channel>
+</rss>

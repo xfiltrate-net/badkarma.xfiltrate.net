@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>badKarma Toolkit</title>
+    <link>https://badkarma.xfiltrated.com/</link>
+    <description>Recent content on badKarma Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Oct 2018 10:31:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://badkarma.xfiltrated.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contribute</title>
+      <link>https://badkarma.xfiltrated.com/contribute/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/contribute/</guid>
+      <description>badKarma is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+If badKarma helped you during a penetration testing engagement, please consider making a donation via PayPal. Bitcoins are accepted as well, at 1Dvvb3TGHRQwfLoUT8rVTPmHqgVjAJRcsm.</description>
+    </item>
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://badkarma.xfiltrated.com/quickstart/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/quickstart/</guid>
+      <description>Setup Let&amp;rsquo;s install badKarma dependencies on your Kali box:
+# apt install python3-pip python3-gi phantomjs mitmproxy ffmpeg gir1.2-gtk-vnc-2.0 \ gir1.2-gtksource-3.0 gir1.2-vte-2.91 gir1.2-osmgpsmap-1.0 gir1.2-webkit2-4.0  clone the repository:
+# git clone https://github.com/r3vn/badKarma.git install python dependecies:
+# cd badKarma # pip install -r requirements.txt Run $ chmod +x badkarma.py $ ./badkarma.py at this point badKarma window should appear, happy hacking :)
+# G.</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://badkarma.xfiltrated.com/screen/first/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/screen/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sec</title>
+      <link>https://badkarma.xfiltrated.com/screen/qa/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/screen/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>https://badkarma.xfiltrated.com/screen/qb/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/screen/qb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>https://badkarma.xfiltrated.com/screen/qc/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/screen/qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>https://badkarma.xfiltrated.com/screen/ql/</link>
+      <pubDate>Tue, 23 Oct 2018 10:31:51 +0200</pubDate>
+      
+      <guid>https://badkarma.xfiltrated.com/screen/ql/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

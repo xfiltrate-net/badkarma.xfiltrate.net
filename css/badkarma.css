@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Terminous;
+    src: url("/fonts/TerminusTTF-4.46.0.ttf");
+}
+html, body {
+    font-family: Terminous, sans-serif; /*Specify your font name here*/
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+a {
+	color: #28a745;
+}
+pre { 
+    font-family: Terminous, sans-serif; /*Specify your font name here*/
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+	background-color: #171717 !important;
+	color: #23d56a;
+	border-color: #474747 !important;
+}
+#green {
+	color: #28a745;
+}
